@@ -1,0 +1,31 @@
+{
+  "name": "PWA Course App",
+  "short_name": "VM PWA",
+  "theme_color": "#3a1a86",
+  "background_color": "#1a4f79",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "/icons/app-icon-96-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/app-icon-144-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/app-icon-256-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/app-icon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
